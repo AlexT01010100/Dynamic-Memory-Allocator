@@ -4,7 +4,7 @@ This school project centered around the implementation of dynamic memory allocat
 
 Project Objectives:
 
-Custom Implementation - The project involved creating custom versions of malloc, calloc, realloc, and free without relying on standard library functions. This deepened the understanding of memory management principles.
+Custom Implementation - The project involved creating custom versions of malloc, calloc, realloc, and free without relying on standard library functions. This deepened my understanding of memory management principles.
 
 Error Handling - Robust error-handling mechanisms were incorporated to ensure safe memory operations. Proper error handling enhanced the reliability and stability of programs utilizing these custom memory functions.
 
