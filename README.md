@@ -10,8 +10,6 @@ Error Handling - Robust error-handling mechanisms were incorporated to ensure sa
 
 Learning Outcomes:
 
-Memory Allocation Strategies - I gained proficiency in understanding and implementing memory allocation strategies, such as first-fit, best-fit, or buddy allocation, depending on project requirements.
-
 Pointer Manipulation - Proficiency was gained in pointer manipulation and memory arithmetic, crucial for effective dynamic memory management.
 
 Debugging Techniques - Skills were developed in debugging memory-related issues and implementing error-checking mechanisms to catch potential problems early in the development process.
